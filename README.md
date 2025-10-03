@@ -22,7 +22,7 @@ This repository provides a starter template for building MERN stack applications
    npm install
    cd ../frontend
    npm install
-   ```
+##AymenAkhtar   ```
 3. **Environment Variables**:
 
    - Set up your environment variables by creating a `.env` file in the `backend` directory. Refer to the `.env.example` file for required variables and their formats.
